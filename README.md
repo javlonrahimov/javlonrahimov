@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=javlonrahimov&count_private=true&custom_title=Github%20All%20Time%20Stats&show_icons=true" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javlonrahimov&layout=compact)](https://github.com/javlonrahimov)
+
 <!--
 **javlonrahimov/javlonrahimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
